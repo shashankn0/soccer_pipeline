@@ -1,0 +1,15 @@
+names:
+- ball
+- goalkeeper
+- player
+- referee
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: football-players-detection-3zvbc-bykfs
+  url: https://universe.roboflow.com/shashank-p3ytm/football-players-detection-3zvbc-bykfs/dataset/1
+  version: 1
+  workspace: shashank-p3ytm
+test: ../test/images
+train: ../train/images
+val: ../valid/images

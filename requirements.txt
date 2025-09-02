@@ -1,0 +1,7 @@
+ultralytics
+roboflow
+opencv-python
+torch
+torchvision
+torchaudio
+pandas
